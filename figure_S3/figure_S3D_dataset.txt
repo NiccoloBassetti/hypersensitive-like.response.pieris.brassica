@@ -1,0 +1,16 @@
+Genotype	Sample	Treatment	Timepoint	Relative_expression
+RC144	2	next	0h	1
+RC144	3	next	0h	1
+RC144	4	next	0h	1
+RC144	11B	next	3h	0.17
+RC144	12B	next	3h	1.20
+RC144	13B	next	3h	0.50
+RC144	18B	next	6h	1.01
+RC144	19B	next	6h	1.33
+RC144	20B	next	6h	0.44
+RC144	23B	next	24h	2.67
+RC144	24B	next	24h	1.95
+RC144	25B	next	24h	4.45
+RC144	26B	next	96h	8.52
+RC144	27B	next	96h	10.45
+RC144	28B	next	96h	4.52

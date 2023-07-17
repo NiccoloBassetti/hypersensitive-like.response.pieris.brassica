@@ -1,0 +1,14 @@
+Sample	Genotype	Treatment	Response	ET
+5	L58	control	HR	0.108
+6	L58	control	HR	0.094
+7	L58	control	HR	0.133
+11	RO18	control	no_HR	0.101
+12	RO18	control	no_HR	0.264
+13	RO18	control	no_HR	0.187
+8	L58	eggwash	HR	1.326
+9	L58	eggwash	HR	2.688
+10	L58	eggwash	HR	1.683
+14	RO18	eggwash	no_HR	0.373
+15	RO18	eggwash	no_HR	0.209
+16	RO18	eggwash	no_HR	0.338
+
