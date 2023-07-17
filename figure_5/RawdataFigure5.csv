@@ -1,0 +1,193 @@
+experiment,date experiment,plant,number,species,treatment,date generated,score
+days,24-10-2019,B.nigra,1,brassicae,1 day old,16-10-2019,3
+days,24-10-2019,B.nigra,2,brassicae,1 day old,16-10-2019,3
+days,24-10-2019,B.nigra,3,brassicae,1 day old,16-10-2019,4
+days,24-10-2019,B.nigra,4,brassicae,1 day old,16-10-2019,4
+days,24-10-2019,B.nigra,5,brassicae,1 day old,16-10-2019,3
+days,24-10-2019,B.nigra,6,brassicae,1 day old,16-10-2019,4
+days,24-10-2019,B.nigra,7,brassicae,1 day old,16-10-2019,4
+days,24-10-2019,B.nigra,8,brassicae,1 day old,16-10-2019,3
+days,24-10-2019,B.nigra,1,brassicae,1 day old,16-10-2019,0
+days,24-10-2019,B.nigra,2,brassicae,1 day old,16-10-2019,3
+days,24-10-2019,B.nigra,3,brassicae,1 day old,16-10-2019,2
+days,24-10-2019,B.nigra,4,brassicae,1 day old,16-10-2019,0
+days,24-10-2019,B.nigra,5,brassicae,1 day old,16-10-2019,2
+days,24-10-2019,B.nigra,1,brassicae,2 days old,17-10-2019,3
+days,24-10-2019,B.nigra,2,brassicae,2 days old,17-10-2019,2
+days,24-10-2019,B.nigra,3,brassicae,2 days old,17-10-2019,4
+days,24-10-2019,B.nigra,4,brassicae,2 days old,17-10-2019,4
+days,24-10-2019,B.nigra,5,brassicae,2 days old,17-10-2019,2
+days,24-10-2019,B.nigra,6,brassicae,2 days old,17-10-2019,4
+days,24-10-2019,B.nigra,7,brassicae,2 days old,17-10-2019,4
+days,24-10-2019,B.nigra,8,brassicae,2 days old,17-10-2019,3
+days,24-10-2019,B.nigra,1,brassicae,2 days old,17-10-2019,0
+days,24-10-2019,B.nigra,2,brassicae,2 days old,17-10-2019,2
+days,24-10-2019,B.nigra,3,brassicae,2 days old,17-10-2019,2
+days,24-10-2019,B.nigra,4,brassicae,2 days old,17-10-2019,0
+days,24-10-2019,B.nigra,5,brassicae,2 days old,17-10-2019,1
+days,24-10-2019,B.nigra,1,brassicae,3 days old,18-10-2019,3
+days,24-10-2019,B.nigra,2,brassicae,3 days old,18-10-2019,2
+days,24-10-2019,B.nigra,3,brassicae,3 days old,18-10-2019,4
+days,24-10-2019,B.nigra,4,brassicae,3 days old,18-10-2019,4
+days,24-10-2019,B.nigra,5,brassicae,3 days old,18-10-2019,3
+days,24-10-2019,B.nigra,6,brassicae,3 days old,18-10-2019,4
+days,24-10-2019,B.nigra,7,brassicae,3 days old,18-10-2019,4
+days,24-10-2019,B.nigra,8,brassicae,3 days old,18-10-2019,2
+days,24-10-2019,B.nigra,1,brassicae,3 days old,18-10-2019,0
+days,24-10-2019,B.nigra,2,brassicae,3 days old,18-10-2019,1
+days,24-10-2019,B.nigra,3,brassicae,3 days old,18-10-2019,2
+days,24-10-2019,B.nigra,4,brassicae,3 days old,18-10-2019,0
+days,24-10-2019,B.nigra,5,brassicae,3 days old,18-10-2019,1
+days,24-10-2019,B.nigra,1,brassicae,1 day old,16-10-2019,2
+days,24-10-2019,B.nigra,2,brassicae,1 day old,16-10-2019,3
+days,24-10-2019,B.nigra,3,brassicae,1 day old,16-10-2019,4
+days,24-10-2019,B.nigra,4,brassicae,1 day old,16-10-2019,4
+days,24-10-2019,B.nigra,5,brassicae,1 day old,16-10-2019,1
+days,24-10-2019,B.nigra,6,brassicae,1 day old,16-10-2019,4
+days,24-10-2019,B.nigra,7,brassicae,1 day old,16-10-2019,4
+days,24-10-2019,B.nigra,8,brassicae,1 day old,16-10-2019,3
+days,24-10-2019,B.nigra,1,brassicae,1 day old,16-10-2019,0
+days,24-10-2019,B.nigra,2,brassicae,1 day old,16-10-2019,1
+days,24-10-2019,B.nigra,3,brassicae,1 day old,16-10-2019,2
+days,24-10-2019,B.nigra,4,brassicae,1 day old,16-10-2019,0
+days,24-10-2019,B.nigra,5,brassicae,1 day old,16-10-2019,2
+days,24-10-2019,B.nigra,1,brassicae,4 days old,19-10-2019,2
+days,24-10-2019,B.nigra,2,brassicae,4 days old,19-10-2019,2
+days,24-10-2019,B.nigra,3,brassicae,4 days old,19-10-2019,3
+days,24-10-2019,B.nigra,4,brassicae,4 days old,19-10-2019,4
+days,24-10-2019,B.nigra,5,brassicae,4 days old,19-10-2019,1
+days,24-10-2019,B.nigra,6,brassicae,4 days old,19-10-2019,4
+days,24-10-2019,B.nigra,7,brassicae,4 days old,19-10-2019,3
+days,24-10-2019,B.nigra,8,brassicae,4 days old,19-10-2019,3
+days,24-10-2019,B.nigra,1,brassicae,4 days old,19-10-2019,1
+days,24-10-2019,B.nigra,2,brassicae,4 days old,19-10-2019,2
+days,24-10-2019,B.nigra,3,brassicae,4 days old,19-10-2019,1
+days,24-10-2019,B.nigra,4,brassicae,4 days old,19-10-2019,1
+days,24-10-2019,B.nigra,5,brassicae,4 days old,19-10-2019,1
+days,24-10-2019,B.nigra,1,brassicae,5 days old,20-10-2019,2
+days,24-10-2019,B.nigra,2,brassicae,5 days old,20-10-2019,1
+days,24-10-2019,B.nigra,3,brassicae,5 days old,20-10-2019,4
+days,24-10-2019,B.nigra,4,brassicae,5 days old,20-10-2019,4
+days,24-10-2019,B.nigra,5,brassicae,5 days old,20-10-2019,1
+days,24-10-2019,B.nigra,6,brassicae,5 days old,20-10-2019,4
+days,24-10-2019,B.nigra,7,brassicae,5 days old,20-10-2019,2
+days,24-10-2019,B.nigra,8,brassicae,5 days old,20-10-2019,2
+days,24-10-2019,B.nigra,1,brassicae,5 days old,20-10-2019,1
+days,24-10-2019,B.nigra,2,brassicae,5 days old,20-10-2019,2
+days,24-10-2019,B.nigra,3,brassicae,5 days old,20-10-2019,2
+days,24-10-2019,B.nigra,4,brassicae,5 days old,20-10-2019,0
+days,24-10-2019,B.nigra,5,brassicae,5 days old,20-10-2019,2
+days,24-10-2019,B.nigra,1,brassicae,hatched,22-10-2019,2
+days,24-10-2019,B.nigra,2,brassicae,hatched,22-10-2019,2
+days,24-10-2019,B.nigra,3,brassicae,hatched,22-10-2019,2
+days,24-10-2019,B.nigra,4,brassicae,hatched,22-10-2019,4
+days,24-10-2019,B.nigra,5,brassicae,hatched,22-10-2019,2
+days,24-10-2019,B.nigra,6,brassicae,hatched,22-10-2019,4
+days,24-10-2019,B.nigra,7,brassicae,hatched,22-10-2019,2
+days,24-10-2019,B.nigra,8,brassicae,hatched,22-10-2019,2
+days,24-10-2019,B.nigra,1,brassicae,hatched,22-10-2019,1
+days,24-10-2019,B.nigra,2,brassicae,hatched,22-10-2019,1
+days,24-10-2019,B.nigra,3,brassicae,hatched,22-10-2019,1
+days,24-10-2019,B.nigra,4,brassicae,hatched,22-10-2019,0
+days,24-10-2019,B.nigra,5,brassicae,hatched,22-10-2019,1
+ARG dissection,4-11-2019,B.nigra,1,,ARG,17-10-2019,3
+ARG dissection,4-11-2019,B.nigra,2,,ARG,17-10-2019,4
+ARG dissection,4-11-2019,B.nigra,3,,ARG,17-10-2019,4
+ARG dissection,4-11-2019,B.nigra,4,,ARG,17-10-2019,4
+ARG dissection,4-11-2019,B.nigra,5,,ARG,17-10-2019,3
+ARG dissection,4-11-2019,B.nigra,1,,Bursa Cop,17-10-2019,1
+ARG dissection,4-11-2019,B.nigra,2,,Bursa Cop,17-10-2019,0
+ARG dissection,4-11-2019,B.nigra,3,,Bursa Cop,17-10-2019,1
+ARG dissection,4-11-2019,B.nigra,4,,Bursa Cop,17-10-2019,1
+ARG dissection,4-11-2019,B.nigra,5,,Bursa Cop,17-10-2019,1
+ARG dissection,4-11-2019,B.nigra,1,,egg wash,1-5-2019,4
+ARG dissection,4-11-2019,B.nigra,2,,egg wash,1-5-2019,4
+ARG dissection,4-11-2019,B.nigra,3,,egg wash,1-5-2019,4
+ARG dissection,4-11-2019,B.nigra,4,,egg wash,1-5-2019,4
+ARG dissection,4-11-2019,B.nigra,5,,egg wash,1-5-2019,2
+ARG dissection,4-11-2019,B.nigra,1,,eggs ovary,17-10-2019,0
+ARG dissection,4-11-2019,B.nigra,2,,eggs ovary,17-10-2019,1
+ARG dissection,4-11-2019,B.nigra,3,,eggs ovary,17-10-2019,0
+ARG dissection,4-11-2019,B.nigra,4,,eggs ovary,17-10-2019,0
+ARG dissection,4-11-2019,B.nigra,5,,eggs ovary,17-10-2019,0
+ARG dissection,4-11-2019,B.nigra,1,,ARG unmated,17-10-2019,4
+ARG dissection,4-11-2019,B.nigra,2,,ARG unmated,17-10-2019,4
+ARG dissection,4-11-2019,B.nigra,3,,ARG unmated,17-10-2019,4
+ARG dissection,4-11-2019,B.nigra,4,,ARG unmated,17-10-2019,4
+ARG dissection,4-11-2019,B.nigra,5,,ARG unmated,17-10-2019,3
+virgin egg wash,4-11-2019,B.nigra,1,brassicae,egg wash,.,3
+virgin egg wash,4-11-2019,B.nigra,2,brassicae,egg wash,.,4
+virgin egg wash,4-11-2019,B.nigra,3,brassicae,egg wash,.,4
+virgin egg wash,4-11-2019,B.nigra,4,brassicae,egg wash,.,2
+virgin egg wash,4-11-2019,B.nigra,5,brassicae,egg wash,.,3
+virgin egg wash,4-11-2019,B.nigra,1,brassicae,egg wash,.,0
+virgin egg wash,4-11-2019,B.nigra,2,brassicae,egg wash,.,3
+virgin egg wash,4-11-2019,B.nigra,3,brassicae,egg wash,.,0
+virgin egg wash,4-11-2019,B.nigra,1,brassicae,eggs unfertilized,30-10-2019,3
+virgin egg wash,4-11-2019,B.nigra,1,brassicae,eggs unfertilized,28-10-2019,4
+virgin egg wash,4-11-2019,B.nigra,1,brassicae,eggs unfertilized,29-10-2019,3
+virgin egg wash,4-11-2019,B.nigra,2,brassicae,eggs unfertilized,30-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,2,brassicae,eggs unfertilized,28-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,2,brassicae,eggs unfertilized,29-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,3,brassicae,eggs unfertilized,30-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,3,brassicae,eggs unfertilized,28-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,3,brassicae,eggs unfertilized,29-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,4,brassicae,eggs unfertilized,30-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,4,brassicae,eggs unfertilized,28-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,4,brassicae,eggs unfertilized,29-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,5,brassicae,eggs unfertilized,30-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,5,brassicae,eggs unfertilized,28-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,5,brassicae,eggs unfertilized,29-10-2019,1
+virgin egg wash,4-11-2019,B.nigra,1,brassicae,eggs unfertilized,30-10-2019,0
+virgin egg wash,4-11-2019,B.nigra,1,brassicae,eggs unfertilized,28-10-2019,0
+virgin egg wash,4-11-2019,B.nigra,1,brassicae,eggs unfertilized,29-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,2,brassicae,eggs unfertilized,30-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,2,brassicae,eggs unfertilized,28-10-2019,1
+virgin egg wash,4-11-2019,B.nigra,2,brassicae,eggs unfertilized,29-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,3,brassicae,eggs unfertilized,30-10-2019,2
+virgin egg wash,4-11-2019,B.nigra,3,brassicae,eggs unfertilized,28-10-2019,0
+virgin egg wash,4-11-2019,B.nigra,3,brassicae,eggs unfertilized,29-10-2019,0
+glue,26-3-2019,B.nigra,1,brassicae,wash glue,.,3
+glue,26-3-2019,B.nigra,2,brassicae,wash glue,.,3
+glue,26-3-2019,B.nigra,3,brassicae,wash glue,.,3
+glue,26-3-2019,B.nigra,4,brassicae,wash glue,.,4
+glue,26-3-2019,B.nigra,5,brassicae,wash glue,.,2
+glue,26-3-2019,B.nigra,6,brassicae,wash glue,.,4
+glue,26-3-2019,B.nigra,1,brassicae,wash glue,.,2
+glue,26-3-2019,B.nigra,2,brassicae,wash glue,.,3
+glue,26-3-2019,B.nigra,3,brassicae,wash glue,.,2
+glue,26-3-2019,B.nigra,4,brassicae,wash glue,.,1
+glue,26-3-2019,B.nigra,5,brassicae,wash glue,.,1
+glue,26-3-2019,B.nigra,6,brassicae,wash glue,.,2
+glue,25-11-2019,B.nigra,1,brassicae,glue removed (bleach),11-11-2019,1
+glue,25-11-2019,B.nigra,2,brassicae,glue removed (bleach),11-11-2019,1
+glue,25-11-2019,B.nigra,3,brassicae,glue removed (bleach),11-11-2019,1
+glue,25-11-2019,B.nigra,4,brassicae,glue removed (bleach),11-11-2019,1
+glue,25-11-2019,B.nigra,5,brassicae,glue removed (bleach),11-11-2019,1
+glue,25-11-2019,B.nigra,6,brassicae,glue removed (bleach),11-11-2019,1
+glue,25-11-2019,B.nigra,7,brassicae,glue removed (bleach),11-11-2019,1
+glue,25-11-2019,B.nigra,8,brassicae,glue removed (bleach),11-11-2019,1
+glue,25-11-2019,B.nigra,1,brassicae,egg wash,11-11-2019,4
+glue,25-11-2019,B.nigra,1,brassicae,egg wash,11-11-2019,4
+glue,25-11-2019,B.nigra,2,brassicae,egg wash,11-11-2019,4
+glue,25-11-2019,B.nigra,2,brassicae,egg wash,11-11-2019,4
+glue,25-11-2019,B.nigra,3,brassicae,egg wash,11-11-2019,3
+glue,25-11-2019,B.nigra,3,brassicae,egg wash,11-11-2019,2
+glue,25-11-2019,B.nigra,4,brassicae,egg wash,11-11-2019,3
+glue,25-11-2019,B.nigra,4,brassicae,egg wash,11-11-2019,1
+glue,25-11-2019,B.nigra,5,brassicae,egg wash,11-11-2019,3
+glue,25-11-2019,B.nigra,5,brassicae,egg wash,11-11-2019,3
+glue,25-11-2019,B.nigra,6,brassicae,egg wash,11-11-2019,3
+glue,25-11-2019,B.nigra,6,brassicae,egg wash,11-11-2019,3
+glue,25-11-2019,B.nigra,7,brassicae,egg wash,11-11-2019,3
+glue,25-11-2019,B.nigra,7,brassicae,egg wash,11-11-2019,3
+glue,25-11-2019,B.nigra,8,brassicae,egg wash,11-11-2019,2
+glue,25-11-2019,B.nigra,8,brassicae,egg wash,11-11-2019,3
+glue,25-11-2019,B.nigra,1,brassicae,glue removed (NaPO4),11-11-2019,1
+glue,25-11-2019,B.nigra,2,brassicae,glue removed (NaPO4),11-11-2019,1
+glue,25-11-2019,B.nigra,3,brassicae,glue removed (NaPO4),11-11-2019,2
+glue,25-11-2019,B.nigra,4,brassicae,glue removed (NaPO4),11-11-2019,0
+glue,25-11-2019,B.nigra,5,brassicae,glue removed (NaPO4),11-11-2019,1
+glue,25-11-2019,B.nigra,6,brassicae,glue removed (NaPO4),11-11-2019,1
+glue,25-11-2019,B.nigra,7,brassicae,glue removed (NaPO4),11-11-2019,1
+glue,25-11-2019,B.nigra,8,brassicae,glue removed (NaPO4),11-11-2019,1
