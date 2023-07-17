@@ -1,0 +1,77 @@
+accession	plant	replicate	Treatment	hr_score
+Bnigra	37	a 	egg wash	0
+Bnigra	38	b	egg wash	2
+Bnigra	39	c	egg wash	4
+Bnigra	40	d	egg wash	0
+Bnigra	13	a 	egg wash	2
+Bnigra	14	b	egg wash	1
+Bnigra	15	c	egg wash	1
+Bnigra	16	d	egg wash	3
+Bnigra	49	a 	egg wash	2
+Bnigra	50	b	egg wash	1
+Bnigra	51	c	egg wash	1
+Bnigra	52	d	egg wash	2
+Bnigra	25	a 	egg wash	2
+Bnigra	26	b	egg wash	4
+Bnigra	27	c	egg wash	4
+Bnigra	28	d	egg wash	1
+Bnigra	33	a 	eggs	1
+Bnigra	34	b	eggs	3
+Bnigra	35	c	eggs	0
+Bnigra	36	d	eggs	1
+Bnigra	9	a 	eggs	0
+Bnigra	10	b	eggs	2
+Bnigra	11	c	eggs	1
+Bnigra	12	d	eggs	0
+Bnigra	45	a 	eggs	1
+Bnigra	46	b	eggs	1
+Bnigra	47	c	eggs	3
+Bnigra	48	d	eggs	0
+Bnigra	21	a 	eggs	1
+Bnigra	22	b	eggs	1
+Bnigra	23	c	eggs	1
+Bnigra	24	d	eggs	2
+Bnigra	1	a 	NA	NA
+Bnigra	2	b	NA	NA
+Bnigra	3	c	NA	NA
+Bnigra	4	d	NA	NA
+Bnigra	1	a	egg wash	NA
+Bnigra	2	b	egg wash	NA
+Bnigra	3	c	egg wash	NA
+Bnigra	4	d	egg wash	NA
+Bnigra	37	a 	egg wash	3
+Bnigra	38	b	egg wash	3
+Bnigra	39	c	egg wash	1
+Bnigra	40	d	egg wash	3
+Bnigra	13	a 	egg wash	4
+Bnigra	14	b	egg wash	3
+Bnigra	15	c	egg wash	4
+Bnigra	16	d	egg wash	2
+Bnigra	49	a 	egg wash	3
+Bnigra	50	b	egg wash	4
+Bnigra	51	c	egg wash	2
+Bnigra	52	d	egg wash	3
+Bnigra	25	a 	egg wash	1
+Bnigra	26	b	egg wash	2
+Bnigra	27	c	egg wash	4
+Bnigra	28	d	egg wash	4
+Bnigra	1	a	eggs	NA
+Bnigra	2	b	eggs	NA
+Bnigra	3	c	eggs	NA
+Bnigra	4	d	eggs	NA
+Bnigra	33	a 	eggs	2
+Bnigra	34	b	eggs	3
+Bnigra	35	c	eggs	4
+Bnigra	36	d	eggs	4
+Bnigra	9	a 	eggs	2
+Bnigra	10	b	eggs	2
+Bnigra	11	c	eggs	3
+Bnigra	12	d	eggs	3
+Bnigra	45	a 	eggs	2
+Bnigra	46	b	eggs	4
+Bnigra	47	c	eggs	4
+Bnigra	48	d	eggs	1
+Bnigra	21	a 	eggs	3
+Bnigra	22	b	eggs	4
+Bnigra	23	c	eggs	3
+Bnigra	24	d	eggs	2
