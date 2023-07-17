@@ -1,0 +1,180 @@
+experiment,date experiment,plant,number,species,treatment,date generated,score
+freeze_thaw,6-8-2018,SF48,1,brassicae,1 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,1,brassicae,1 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,1,brassicae,1 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,2,brassicae,1 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,2,brassicae,1 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,2,brassicae,1 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,3,brassicae,1 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,3,brassicae,1 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,3,brassicae,1 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,4,brassicae,1 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,4,brassicae,1 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,4,brassicae,1 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,5,brassicae,1 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,5,brassicae,1 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,5,brassicae,1 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,6,brassicae,1 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,6,brassicae,1 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,6,brassicae,1 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,7,brassicae,1 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,1 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,7,brassicae,1 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,8,brassicae,1 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,8,brassicae,1 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,8,brassicae,1 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,1,brassicae,2 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,1,brassicae,2 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,1,brassicae,2 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,2,brassicae,2 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,2,brassicae,2 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,2,brassicae,2 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,3,brassicae,2 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,3,brassicae,2 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,3,brassicae,2 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,4,brassicae,2 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,4,brassicae,2 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,4,brassicae,2 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,5,brassicae,2 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,5,brassicae,2 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,5,brassicae,2 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,6,brassicae,2 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,6,brassicae,2 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,6,brassicae,2 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,7,brassicae,2 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,2 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,7,brassicae,2 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,8,brassicae,2 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,8,brassicae,2 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,8,brassicae,2 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,1,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,1,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,1,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,1,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,1,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,1,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,1,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,1,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,1,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,2,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,2,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,2,brassicae,3 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,2,brassicae,3 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,2,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,2,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,2,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,2,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,2,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,3,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,3,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,3,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,3,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,3,brassicae,3 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,3,brassicae,3 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,3,brassicae,3 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,3,brassicae,3 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,3,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,4,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,4,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,4,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,4,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,4,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,4,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,4,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,4,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,4,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,5,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,5,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,5,brassicae,3 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,5,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,5,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,5,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,5,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,5,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,5,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,6,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,6,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,6,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,6,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,6,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,6,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,6,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,6,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,6,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,7,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,7,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,7,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,7,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,8,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,8,brassicae,3 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,8,brassicae,3 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,8,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,8,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,8,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,8,brassicae,3 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,8,brassicae,3 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,8,brassicae,3 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,1,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,1,brassicae,4 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,1,brassicae,4 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,1,brassicae,4 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,2,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,2,brassicae,4 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,2,brassicae,4 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,2,brassicae,4 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,3,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,3,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,3,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,3,brassicae,4 cycles,31-7-2018,1
+freeze_thaw,6-8-2018,SF48,4,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,4,brassicae,4 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,4,brassicae,4 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,4,brassicae,4 cycles,31-7-2018,4
+freeze_thaw,6-8-2018,SF48,5,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,5,brassicae,4 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,5,brassicae,4 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,5,brassicae,4 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,6,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,6,brassicae,4 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,6,brassicae,4 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,6,brassicae,4 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,7,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,7,brassicae,4 cycles,31-7-2018,3
+freeze_thaw,6-8-2018,SF48,8,brassicae,4 cycles,31-7-2018,0
+freeze_thaw,6-8-2018,SF48,8,brassicae,4 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,8,brassicae,4 cycles,31-7-2018,2
+freeze_thaw,6-8-2018,SF48,8,brassicae,4 cycles,31-7-2018,2
+boiling_protK,3-4-2018,SF48,1,brassicae,boiled,28-3-2018,3
+boiling_protK,3-4-2018,SF19,1,brassicae,boiled,28-3-2018,2
+boiling_protK,3-4-2018,SF48,2,brassicae,boiled,28-3-2018,4
+boiling_protK,3-4-2018,SF19,2,brassicae,boiled,28-3-2018,1
+boiling_protK,3-4-2018,SF48,3,brassicae,boiled,28-3-2018,4
+boiling_protK,3-4-2018,SF19,3,brassicae,boiled,28-3-2018,4
+boiling_protK,3-4-2018,SF48,4,brassicae,boiled,28-3-2018,3
+boiling_protK,3-4-2018,SF19,4,brassicae,boiled,28-3-2018,0
+boiling_protK,3-4-2018,SF48,5,brassicae,boiled,28-3-2018,2
+boiling_protK,3-4-2018,SF48,1,brassicae,no,28-3-2018,4
+boiling_protK,3-4-2018,SF19,1,brassicae,no,28-3-2018,2
+boiling_protK,3-4-2018,SF48,2,brassicae,no,28-3-2018,4
+boiling_protK,3-4-2018,SF19,2,brassicae,no,28-3-2018,2
+boiling_protK,3-4-2018,SF48,3,brassicae,no,28-3-2018,3
+boiling_protK,3-4-2018,SF19,3,brassicae,no,28-3-2018,3
+boiling_protK,3-4-2018,SF48,4,brassicae,no,28-3-2018,4
+boiling_protK,3-4-2018,SF19,4,brassicae,no,28-3-2018,0
+boiling_protK,3-4-2018,SF48,5,brassicae,no,28-3-2018,3
+boiling_protK,3-4-2018,SF48,1,brassicae,proteinase K,28-3-2018,4
+boiling_protK,3-4-2018,SF19,1,brassicae,proteinase K,28-3-2018,2
+boiling_protK,3-4-2018,SF48,2,brassicae,proteinase K,28-3-2018,4
+boiling_protK,3-4-2018,SF19,2,brassicae,proteinase K,28-3-2018,3
+boiling_protK,3-4-2018,SF48,3,brassicae,proteinase K,28-3-2018,4
+boiling_protK,3-4-2018,SF19,3,brassicae,proteinase K,28-3-2018,4
+boiling_protK,3-4-2018,SF48,4,brassicae,proteinase K,28-3-2018,4
+boiling_protK,3-4-2018,SF19,4,brassicae,proteinase K,28-3-2018,0
+boiling_protK,3-4-2018,SF48,5,brassicae,proteinase K,28-3-2018,3
